@@ -1,3 +1,7 @@
+origin: <https://github.com/NBCRobotics/5387-Robot> OR <ssh://git@github.com:NBCRobotics/5387-Robot>
+
+upstream: <https://github.com/OpenFTC/OpenRC-Turbo>
+
 
 ## OpenRC-Turbo
 
